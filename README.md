@@ -1,3 +1,8 @@
+# Start
+
+- first start the server usign "json-server db.json" in db.json directory using cmd
+- then start the project using ng serve
+
 # ShoppingCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.

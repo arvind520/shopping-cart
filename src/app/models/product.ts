@@ -5,6 +5,7 @@ export class Product {
   price: number;
   imageUrl: string;
 
+  //! because of api integration we dont need this
   constructor(
     id: number,
     name: string,
