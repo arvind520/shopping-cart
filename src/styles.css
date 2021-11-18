@@ -25,3 +25,10 @@
 .product-btn {
   font-size: small;
 }
+
+.fa-heart {
+  color: palevioletred;
+  display: flex;
+  float: right;
+  cursor: pointer;
+}
